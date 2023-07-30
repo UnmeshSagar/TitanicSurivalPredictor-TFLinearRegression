@@ -21,7 +21,7 @@ To get started with the Titanic Survival Predictor, you'll need to follow these 
 1. Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/unmeshsagar/TitanicSurivalPredictor-TFLinearRegression.git
+git clone https://github.com/UnmeshSagar/TitanicSurivalPredictor-TFLinearRegression.git
 ```
 
 2. Navigate to the project directory:
