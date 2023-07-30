@@ -12,22 +12,23 @@ Welcome to the Titanic Survival Predictor project! This project uses TensorFlow'
 
 ## Introduction
 
-The sinking of the Titanic is one of the most infamous maritime disasters in history. This project aims to harness the power of machine learning to predict passenger survival based on the available data. By utilizing TensorFlow's Linear Regression, we can create a predictive model that provides insights into the factors that influenced passenger survival.
+The sinking of the Titanic is one of the most infamous maritime disasters in history. This project aims to harness the power of machine learning to predict passenger survival based on the available data. By utilizing TensorFlow's Linear Regression, created a predictive model that provides insights into the factors that influenced passenger survival.
 
 ## Installation
 
-To get started with the Titanic Survival Predictor, you'll need to follow these simple steps:
+To get started with the Titanic Survival Predictor, follow these simple steps:
 
 1. Clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/UnmeshSagar/TitanicSurivalPredictor-TFLinearRegression.git
+
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd TitanicSurivalPredictor-TFLinearRegression/app
+cd TitanicSurivalPredictor-TFLinearRegression
 ```
 
 3. Install the required dependencies:
